@@ -1,12 +1,5 @@
 import './App.css';
 
-document.getElementById('click').addEventListener('click', function() {
-  // Add form validation logic here if necessary
-
-  // Redirect to another page
-  window.location.href = 'upload.html'; // Make sure this file exists
-});
-
 function App() {
   return (
     <div>
